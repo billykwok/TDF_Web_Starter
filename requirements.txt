@@ -1,0 +1,5 @@
+adafruit-circuitpython-crickit>=2.3.6
+black>=21.11b1
+starlette>=0.17.1
+uvicorn>=0.15.0
+requests>=2.26.0
